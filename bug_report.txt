@@ -1,1 +1,6 @@
-
+ID: 1,
+Title: When you click on the 'Register' button, the registration form does not open,
+Steps: Open web and click button 'Register',
+Factual result: When button click nothing is happening,
+Expected result: The registration window opens when you click on the 'Register' button, the registration form opens,  
+Severity: Major.
