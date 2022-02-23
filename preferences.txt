@@ -1,0 +1,5 @@
+favorite movie:  escape from shawshank,
+favorite TV series: breaking bad,
+favorite food: rolls,
+favourite season: spring,
+country: iceland.
